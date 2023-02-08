@@ -22,7 +22,6 @@ function modalOpen(img, index) {
   modalImg.src = img.src;
 }
 
-
 function preload() {
   const preload = document.querySelector(".preload");
   const h1 = document.querySelector("h1");
